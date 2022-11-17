@@ -1,24 +1,5 @@
-# README
+Se suigio la guia de de instalacion y configuracion de https://www.theodinproject.com/lessons/ruby-on-rails-installing-rails.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Se debio instalar varias dependencias y realizar configuraciones en un equipo completamente limpio de linux.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Como hosting se utiliza fly.io con la siguiente guia para ruby on rails https://fly.io/docs/rails/getting-started/.
